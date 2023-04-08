@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/91904415/230727458-ab0436f7-8880-4f86-a092-78da27e0cfb9.png)
+
 # MyMoney - tracking transactions
 
 This project is deployed on firebase and ready to use [here](https://mymoney-adf97.web.app/signup).
